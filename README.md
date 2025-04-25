@@ -38,4 +38,4 @@ This script allows you to retrieve a police dog, and then use it to follow or at
 
 ## Bugs
 
-If you experience any issues or bugs, contact me on discord through the [Mythic Framework Discord](https://discord.gg/ZexaMRuWk2) (AutLaaw).
+If you experience any issues or bugs, contact me on discord through the [Mythic Framework Discord](https://discord.gg/b4tBy4pHUV) (AutLaaw).
