@@ -1,6 +1,6 @@
 # Police K9 Script
 
-**Police K9 Script** is a project originally forked from [hashisx's repository](https://github.com/hashisx/hashx_k9), and later from [FjamZoo's repository](https://github.com/FjamZoo/qb-k9)
+**Police K9 Script** is a project originally forked from [hashisx's repository](https://github.com/hashisx/hashx_k9), and later from [FjamZoo's repository](https://github.com/FjamZoo/qb-k9) and then from [autlaw](https://github.com/AutLaaw/mythic-k9)
 
 ## Installation
 
@@ -11,12 +11,12 @@
    The K9 Ped used in this script is a custom model. You can download the model from the [Cfx.re forum](https://forum.cfx.re/t/how-to-german-shepherd-malinois-k9-dog-1-0-1/1065040).
 
 3. **Add to Server Files**  
-   Place the `mythic-k9` folder into your server's resource directory.
+   Place the `sandbox-k9` folder into your server's resource directory.
 
 4. **Configure Resources**  
    Start the script by adding the following line to your `resources.cfg` file:
    ```plaintext
-   start mythic-k9
+   start sandbox-k9
    ```
 
 ## Overview
